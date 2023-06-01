@@ -1,0 +1,134 @@
+{
+  "Items": [
+    {
+      "id": "0",
+      "name": "Chocolate Donut",
+      "image": "/assets/images/donut.png",
+      "category": "Donut",
+      "rating": 4,
+      "price": 30
+    },
+    {
+      "id": "1",
+      "name": "Strawberry Donut",
+      "image": "/assets/images/donut.png",
+      "category": "Donut",
+      "rating": 5,
+      "price": 35
+    },
+    {
+      "id": "2",
+      "name": "Cake Donut",
+      "image": "/assets/images/donut.png",
+      "category": "Donut",
+      "rating": 3,
+      "price": 5
+    },
+    {
+      "id": "3",
+      "name": "Gourmet Donut",
+      "image": "/assets/images/donut.png",
+      "category": "Donut",
+      "rating": 4,
+      "price": 55
+    },
+    {
+      "id": "4",
+      "name": "Shortbread Cookies",
+      "image": "/assets/images/cookie.png",
+      "category": "Cookie",
+      "rating": 5,
+      "price": 55
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Cookies",
+      "image": "/assets/images/cookie.png",
+      "category": "Cookie",
+      "rating": 4,
+      "price": 30
+    },
+    {
+      "id": "6",
+      "name": "Strawberry Cookie",
+      "image": "/assets/images/cookie.png",
+      "category": "Cookie",
+      "rating": 4,
+      "price": 35
+    },
+    {
+      "id": "7",
+      "name": "Peanut Donut",
+      "image": "/assets/images/cookie.png",
+      "category": "Cookie",
+      "rating": 5,
+      "price": 45
+    },
+    {
+      "id": "8",
+      "name": "Chocolate",
+      "image": "/assets/images/cake.png",
+      "category": "Cake",
+      "rating": 4,
+      "price": 55
+    },
+    {
+      "id": "9",
+      "name": "Strawberry",
+      "image": "/assets/images/cake.png",
+      "category": "Cake",
+      "rating": 5,
+      "price": 75
+    },
+    {
+      "id": "10",
+      "name": "White Forest",
+      "image": "/assets/images/cake.png",
+      "category": "Cake",
+      "rating": 4,
+      "price": 100
+    },
+    {
+      "id": "11",
+      "name": "Black Forest",
+      "image": "/assets/images/cake.png",
+      "category": "Cake",
+      "rating": 5,
+      "price": 100
+    },
+    {
+      "id": "12",
+      "name": "Chocolate Bread",
+      "image": "/assets/images/bread.png",
+      "category": "Bread",
+      "rating": 4,
+      "price": 55
+    },
+    {
+      "id": "13",
+      "name": "Strawberry Bread",
+      "image": "/assets/images/bread.png",
+      "category": "Bread",
+      "rating": 5,
+      "price": 45
+    },
+    {
+      "id": "14",
+      "name": "Wheat Bread",
+      "image": "/assets/images/bread.png",
+      "category": "Bread",
+      "rating": 4,
+      "price": 50
+    },
+    {
+      "id": "15",
+      "name": "Butterscotch",
+      "image": "/assets/images/bread.png",
+      "category": "Bread",
+      "rating": 5,
+      "price": 60
+    }
+
+  ]
+
+}
